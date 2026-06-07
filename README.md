@@ -28,7 +28,10 @@ I enjoy building real-world projects like APIs and web applications.
 - Node.js
 - Express.js
 - MongoDB
+- sql
 - Git & GitHub
+- websockets
+- problem solving skills
 
 
  Goals
